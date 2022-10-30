@@ -8,15 +8,15 @@ Mediapipeを利用した運動補助プログラム
 ２．追加パッケージをインストール
 　pip install mediapipe
   pip install pygame
+  pip install streamlit
 
 ３．実行に必要なファイル
-　pose_movie.py　←　実行ファイル
+　AI_training_2.py　←　実行ファイル
   training.mp4  ← 入力用ファイル
   seton.mp3　←　肩が下に正しく来た場合の音
   counter.mp3　←　正しく運動できた場合の音
-  result_video.mp4 ←　プログラム実行結果の動画ファイル
 
 ４．実行方法
 　mediapipeとpygameをインストールしたpython仮想環境下で
-　>>　python  pose_movie.py
+　>>　streamlit  run  AI_training_2.py
 　を実行する
