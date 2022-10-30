@@ -1,23 +1,23 @@
-–{ƒvƒƒOƒ‰ƒ€‚ÍˆÈ‰º‚ÌŠÂ‹«‚Å‹N“®‚µ‚Ü‚·B
+æœ¬ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¯ä»¥ä¸‹ã®ç’°å¢ƒã§èµ·å‹•ã—ã¾ã™ã€‚
 
-‚PD‰¼‘zŠÂ‹«ì¬
-@@Python@F@3D8.13
+ï¼‘ï¼ä»®æƒ³ç’°å¢ƒä½œæˆ
+ã€€ã€€Pythonã€€ï¼šã€€3ï¼8.13
 
-‚QD’Ç‰ÁƒpƒbƒP[ƒW‚ğƒCƒ“ƒXƒg[ƒ‹
-@pip install mediapipe
-  pip install pygame
+ï¼’ï¼è¿½åŠ ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ã€€pip install mediapipe  
+  pip install pygame  
+  pip install streamlit  
+  
+ï¼“ï¼å®Ÿè¡Œã«å¿…è¦ãªãƒ•ã‚¡ã‚¤ãƒ«
+ã€€AI_training_2.pyã€€â†ã€€å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«
+  training.mp4  â† å…¥åŠ›ç”¨ãƒ•ã‚¡ã‚¤ãƒ«
+  seton.mp3ã€€â†ã€€è‚©ãŒä¸‹ã«æ­£ã—ãæ¥ãŸå ´åˆã®éŸ³
+  counter.mp3ã€€â†ã€€æ­£ã—ãé‹å‹•ã§ããŸå ´åˆã®éŸ³
 
-‚RDÀs‚É•K—v‚Èƒtƒ@ƒCƒ‹
-@pose_movie.py@©@Àsƒtƒ@ƒCƒ‹
-  training.mp4  © “ü—Í—pƒtƒ@ƒCƒ‹
-  seton.mp3@©@Œ¨‚ª‰º‚É³‚µ‚­—ˆ‚½ê‡‚Ì‰¹
-  counter.mp3@©@³‚µ‚­‰^“®‚Å‚«‚½ê‡‚Ì‰¹
-  result_video.mp4 ©@ƒvƒƒOƒ‰ƒ€ÀsŒ‹‰Ê‚Ì“®‰æƒtƒ@ƒCƒ‹
-
-‚SDÀs•û–@
-@mediapipe‚Æpygame‚ğƒCƒ“ƒXƒg[ƒ‹‚µ‚½python‰¼‘zŠÂ‹«‰º‚Å
-@>>@python  pose_movie.py
-@‚ğÀs‚·‚é
+ï¼”ï¼å®Ÿè¡Œæ–¹æ³•
+ã€€mediapipeã¨pygameã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸpythonä»®æƒ³ç’°å¢ƒä¸‹ã§
+ã€€>>ã€€streamlit run AI_training_2.py
+ã€€ã‚’å®Ÿè¡Œã™ã‚‹
 
 
 
