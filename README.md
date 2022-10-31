@@ -17,6 +17,6 @@ Mediapipeを利用した運動補助プログラム
   counter.mp3　←　正しく運動できた場合の音
 
 ４．実行方法
-　mediapipeとpygameをインストールしたpython仮想環境下で
+　mediapipe,pygame,Streamlitをインストールしたpython仮想環境下で
 　>>　streamlit  run  AI_training_2.py
 　を実行する
